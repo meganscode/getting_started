@@ -1,4 +1,4 @@
-# Getting your environment set up.
+# Getting set up.
 
 ## Github
 Having a [Github](https://github.com/) account is a must, signing up is free. Make sure you sign up with an active email account and make a username that is professional. (you can't change it later) [firstname_lastname] is always easy to remember and also ensures people find your account quickly. 
