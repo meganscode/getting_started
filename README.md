@@ -8,4 +8,4 @@ Having a [Github](https://github.com/) account is a must, signing up is free. Ma
 
 
 ## Trello
-A [Trello](https://trello.com/en-US/tour) board is a list of lists, filled with cards, used by you and your team. It's a lot more than that, though. Trello has everything you need to organize projects of any size. Open a card and you can add comments, upload file attachments, create checklists, add labels and due dates, and more.
+A [Trello](https://trello.com/en-US/tour) board is a list of lists, filled with cards, used by you and your team. It's a lot more than that, though. Trello has everything you need to organize projects of any size. Open a card and you can add comments, upload file attachments, create checklists, add labels and due dates, and more!
